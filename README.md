@@ -7,7 +7,7 @@
 ## 2.使用說明
 下載檔案後請先製作IP，後參考下圖布置測試架構，其中ILA不需要的話可以移除。
 
-![image](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/test_architecture.png)
+![!\[image\](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/test_architecture.png)](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/test_architecture.png)
 
 
 
@@ -41,7 +41,7 @@ inbuf_image = Image.fromarray(input_buffer)
 display(inbuf_image)
 ```
 
-![image](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/lena_gray.bmp)
+![!\[image\](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/lena_gray.bmp)](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/lena_gray.bmp)
 
 ```python
 dma_send.transfer(input_buffer)
@@ -53,7 +53,7 @@ display(outbuf_image)
 ```
 
 ## 模糊化
-![image](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/output1.png)
+![!\[image\](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/output1.png)](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/output1.png)
 
 ## 曲線偵測
-![image](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/output2.png)
+![!\[image\](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/output2.png)](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/output2.png)
