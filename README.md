@@ -7,9 +7,7 @@
 ## 2.使用說明
 下載檔案後請先製作IP，後參考下圖布置測試架構，其中ILA不需要的話可以移除。
 
-![!\[image\](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/test_architecture.png)](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/test_architecture.png)
-
-
+![!\[image\](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/test_architecture.png)](https://github.com/Kevin18Chen/Image_processing_convolution3x3/blob/main/img/test_architecture.png)
 
 ```python
 from pynq import Overlay
