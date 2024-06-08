@@ -39,7 +39,7 @@ inbuf_image = Image.fromarray(input_buffer)
 display(inbuf_image)
 ```
 
-![!\[image\](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/lena_gray.bmp)](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/lena_gray.bmp)
+![!\[image\](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/lena_gray.bmp)](https://github.com/Kevin18Chen/Image_processing_convolution3x3/blob/main/img/lena_gray.bmp)
 
 ```python
 dma_send.transfer(input_buffer)
@@ -51,7 +51,7 @@ display(outbuf_image)
 ```
 
 ## 模糊化
-![!\[image\](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/output1.png)](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/output1.png)
+![!\[image\](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/output1.png](https://github.com/Kevin18Chen/Image_processing_convolution3x3/blob/main/img/output1.png)
 
 ## 曲線偵測
-![!\[image\](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/output2.png)](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/output2.png)
+![!\[image\](https://github.com/Kevin18Chen/Image_processing_convolution3x3/tree/main/img/output2.png](https://github.com/Kevin18Chen/Image_processing_convolution3x3/blob/main/img/output2.png)
